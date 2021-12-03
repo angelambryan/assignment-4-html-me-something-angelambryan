@@ -5,3 +5,12 @@ body {
  .article {
    border-style: solid;
  }
+
+ html {
+    margin: 8px
+
+ }
+
+mainHeading {
+    color: red;
+}
