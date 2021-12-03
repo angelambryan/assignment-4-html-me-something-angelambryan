@@ -2,31 +2,31 @@ body {
     background-color: azure;
  }
 
- .article {
+.article {
    border-style: ridge;
  }
 
- html {
+html {
     margin: 8px
-
  }
 
 #mainHeading {
     color: red;
 }
+
 .funParagraph {
     color: green;
-}
-body {
+    }
 
+body {
     display: block;
     margin: 8px;
     margin-top: 8px;
     margin-right: 8px;
     margin-bottom: 8px;
     margin-left: 8px;
-    
     }
-    #testP {
+
+#testP {
     padding: 8%;  
     }
